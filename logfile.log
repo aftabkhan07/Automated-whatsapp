@@ -1,0 +1,2018 @@
+2022-09-17 02:56:08,427 :INFO : test_Sanity : Curatio Bot not working
+2022-09-17 02:56:08,427 :INFO : test_Sanity : Curatio Bot working
+2022-09-17 02:56:27,568 :INFO : test_Sanity : Curatio Bot not working
+2022-09-17 02:56:27,568 :INFO : test_Sanity : Curatio Bot working
+2022-09-17 02:59:26,671 :INFO : test_Sanity : Curatio Bot not working
+2022-09-17 02:59:57,293 :INFO : test_Sanity : Curatio Bot not working
+2022-09-17 03:00:39,946 :INFO : test_Sanity : Curatio Bot working fine
+2022-09-17 03:04:13,658 :INFO : test_Sanity :Issue while loding whatsapp
+2022-09-17 03:04:30,451 :INFO : test_Sanity :Issue while loding whatsapp
+2022-09-17 03:18:53,822 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 03:22:35,605 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 03:22:57,888 :INFO : test_WebBotSanity :Issue seen in https://curatiohealthcare.com/
+2022-09-17 03:27:27,869 :INFO : test_WebBotSanity :Issue seen in https://curatiohealthcare.com/
+2022-09-17 03:36:42,713 :INFO : test_WebBotSanity :Issue seen in https://curatiohealthcare.com/
+2022-09-17 03:42:18,228 :INFO : test_WebBotSanity :Issue seen in https://curatiohealthcare.com/
+2022-09-17 03:43:35,227 :INFO : test_WebBotSanity :Issue seen in https://curatiohealthcare.com/
+2022-09-17 03:45:47,984 :INFO : test_WebBotSanity :Issue seen in https://curatiohealthcare.com/
+2022-09-17 03:49:18,230 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 03:53:56,050 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 03:54:13,662 :INFO : test_WebBotSanity :Issue seen in https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl
+2022-09-17 04:10:55,988 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 04:19:05,744 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 04:19:23,155 :INFO : test_WebBotSanity : 'https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl' working fine
+2022-09-17 04:19:23,155 :INFO : test_WebBotSanity : 'https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl' working fine
+2022-09-17 04:21:29,858 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 04:21:47,551 :INFO : test_WebBotSanity : 'https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl' working fine
+2022-09-17 04:24:29,674 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 04:24:47,390 :INFO : test_WebBotSanity : 'https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl' working fine
+2022-09-17 04:27:40,859 :INFO : test_WebBotSanity :Issue seen in https://curatiohealthcare.com/
+2022-09-17 04:27:44,262 :INFO : test_WebBotSanity : 'https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl' working fine
+2022-09-17 04:47:09,987 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 04:47:38,375 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 04:48:15,434 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 04:48:37,682 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 04:54:57,252 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 04:54:58,478 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 04:54:59,363 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 04:55:00,355 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 04:55:01,162 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 04:56:01,387 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 04:56:01,387 :INFO : test_WhatsappBotSanity : Issue seen in iTax Service Bot
+2022-09-17 04:56:02,158 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot working fine
+2022-09-17 04:56:52,717 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 04:57:03,145 :INFO : test_WhatsappBotSanity : Issue seen in MadhavBaug Bot
+2022-09-17 04:57:09,218 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 04:57:10,234 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 04:57:10,789 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 04:57:11,330 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 04:57:12,039 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 04:57:13,553 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 04:57:23,958 :INFO : test_WhatsappBotSanity : Issue seen in Sugam Solar Bot
+2022-09-17 04:57:34,405 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 04:57:44,838 :INFO : test_WhatsappBotSanity : Issue seen in UPL Farmer Bot
+2022-09-17 04:57:55,277 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 04:58:05,693 :INFO : test_WhatsappBotSanity : Issue seen in UPL Retailer Bot
+2022-09-17 04:58:16,093 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 04:58:26,487 :INFO : test_WhatsappBotSanity : Issue seen in Sanctum Bot
+2022-09-17 04:58:36,897 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 04:59:17,301 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 04:59:18,638 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 04:59:19,765 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 04:59:20,855 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 04:59:21,805 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 05:00:22,188 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 05:00:22,188 :INFO : test_WhatsappBotSanity : Issue seen in iTax Service Bot
+2022-09-17 05:00:22,977 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot working fine
+2022-09-17 05:01:23,300 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 05:01:23,306 :INFO : test_WhatsappBotSanity : Issue seen in MadhavBaug Bot
+2022-09-17 05:01:24,053 :INFO : test_WhatsappBotSanity : Sugam Solar Bot working fine
+2022-09-17 05:01:24,850 :INFO : test_WhatsappBotSanity : UPL Farmer Bot working fine
+2022-09-17 05:02:25,271 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 05:02:25,271 :INFO : test_WhatsappBotSanity : Issue seen in UPL Retailer Bot
+2022-09-17 05:02:25,989 :INFO : test_WhatsappBotSanity : Sanctum Bot working fine
+2022-09-17 05:02:27,157 :INFO : test_WhatsappBotSanity : Issue seen in Cherise Tapri Chatbot
+2022-09-17 05:02:50,848 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 05:03:08,494 :INFO : test_WebBotSanity : 'https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl' working fine
+2022-09-17 05:15:09,855 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 05:15:10,858 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 05:15:11,518 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 05:15:12,301 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 05:15:13,031 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 05:16:28,593 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 05:16:32,612 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 05:16:33,631 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 05:16:34,131 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 05:16:35,015 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 05:16:35,746 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 05:16:46,047 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 05:16:49,049 :INFO : test_WhatsappBotSanity : Issue seen in iTax Service Bot
+2022-09-17 05:16:49,722 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot working fine
+2022-09-17 05:17:00,121 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 05:17:03,158 :INFO : test_WhatsappBotSanity : Issue seen in MadhavBaug Bot
+2022-09-17 05:17:03,596 :INFO : test_WhatsappBotSanity : Sugam Solar Bot working fine
+2022-09-17 05:17:04,354 :INFO : test_WhatsappBotSanity : UPL Farmer Bot working fine
+2022-09-17 05:17:14,731 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 05:17:17,736 :INFO : test_WhatsappBotSanity : Issue seen in UPL Retailer Bot
+2022-09-17 05:17:18,407 :INFO : test_WhatsappBotSanity : Sanctum Bot working fine
+2022-09-17 05:17:19,538 :INFO : test_WhatsappBotSanity : Issue seen in Cherise Tapri Chatbot
+2022-09-17 05:17:43,412 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 05:18:00,749 :INFO : test_WebBotSanity : 'https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl' working fine
+2022-09-17 05:23:27,886 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 05:23:30,917 :INFO : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-17 05:23:33,246 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 05:23:34,416 :INFO : test_WhatsappBotSanity : Issue seen in Motilal Oswal Bot
+2022-09-17 05:23:35,058 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 05:23:35,720 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 05:23:36,364 :INFO : test_WhatsappBotSanity : iTAX Service Bot working fine
+2022-09-17 05:23:37,192 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot working fine
+2022-09-17 05:23:37,886 :INFO : test_WhatsappBotSanity : Madhavbaug Bot working fine
+2022-09-17 05:23:38,522 :INFO : test_WhatsappBotSanity : Sugam Solar Bot working fine
+2022-09-17 05:23:39,158 :INFO : test_WhatsappBotSanity : UPL Farmer Bot working fine
+2022-09-17 05:23:40,264 :INFO : test_WhatsappBotSanity : Issue seen in UPL Retailer Prod Bot
+2022-09-17 05:23:40,820 :INFO : test_WhatsappBotSanity : Sanctum Bot working fine
+2022-09-17 05:23:41,915 :INFO : test_WhatsappBotSanity : Issue seen in Cherise Tapri Chatbot
+2022-09-17 05:24:06,247 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 05:24:41,861 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 05:24:48,565 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 05:24:49,404 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 05:24:50,070 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 05:24:50,936 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 05:24:51,638 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 05:24:52,751 :INFO : test_WhatsappBotSanity : Issue seen in iTAX Service Bot
+2022-09-17 05:24:53,434 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot working fine
+2022-09-17 05:24:54,200 :INFO : test_WhatsappBotSanity : Madhavbaug Bot working fine
+2022-09-17 05:24:54,767 :INFO : test_WhatsappBotSanity : Sugam Solar Bot working fine
+2022-09-17 05:24:55,490 :INFO : test_WhatsappBotSanity : UPL Farmer Bot working fine
+2022-09-17 05:24:56,214 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot working fine
+2022-09-17 05:24:56,776 :INFO : test_WhatsappBotSanity : Sanctum Bot working fine
+2022-09-17 05:24:57,885 :INFO : test_WhatsappBotSanity : Issue seen in Cherise Tapri Chatbot
+2022-09-17 05:25:47,548 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 05:25:47,560 :INFO : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-17 05:25:59,102 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 05:26:05,925 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 05:26:12,786 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 05:26:19,325 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 05:26:26,040 :INFO : test_WhatsappBotSanity : iTAX Service Bot working fine
+2022-09-17 05:26:32,863 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot working fine
+2022-09-17 05:26:39,596 :INFO : test_WhatsappBotSanity : Madhavbaug Bot working fine
+2022-09-17 05:26:46,398 :INFO : test_WhatsappBotSanity : Sugam Solar Bot working fine
+2022-09-17 05:26:53,119 :INFO : test_WhatsappBotSanity : UPL Farmer Bot working fine
+2022-09-17 05:26:59,829 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot working fine
+2022-09-17 05:27:06,315 :INFO : test_WhatsappBotSanity : Sanctum Bot working fine
+2022-09-17 05:27:12,968 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot working fine
+2022-09-17 05:27:36,593 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 05:27:54,354 :INFO : test_WebBotSanity : 'https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl' working fine
+2022-09-17 05:28:29,137 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 05:28:41,661 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 05:28:54,046 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 05:29:06,617 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 05:29:19,229 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 05:29:31,824 :INFO : test_WhatsappBotSanity : iTAX Service Bot working fine
+2022-09-17 05:29:44,479 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot working fine
+2022-09-17 05:29:57,086 :INFO : test_WhatsappBotSanity : Madhavbaug Bot working fine
+2022-09-17 05:30:31,600 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp
+2022-09-17 05:30:31,624 :INFO : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-17 05:30:40,997 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 05:30:47,558 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 05:30:54,056 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 05:31:00,504 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 05:31:07,036 :INFO : test_WhatsappBotSanity : iTAX Service Bot working fine
+2022-09-17 05:31:13,533 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot working fine
+2022-09-17 05:31:20,090 :INFO : test_WhatsappBotSanity : Madhavbaug Bot working fine
+2022-09-17 05:31:26,641 :INFO : test_WhatsappBotSanity : Sugam Solar Bot working fine
+2022-09-17 05:31:33,245 :INFO : test_WhatsappBotSanity : UPL Farmer Bot working fine
+2022-09-17 05:31:39,651 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot working fine
+2022-09-17 05:31:46,097 :INFO : test_WhatsappBotSanity : Sanctum Bot working fine
+2022-09-17 05:31:52,705 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot working fine
+2022-09-17 05:32:17,236 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 05:32:34,635 :INFO : test_WebBotSanity : 'https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl' working fine
+2022-09-17 05:34:27,598 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 05:34:34,088 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 05:34:40,638 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 05:34:47,462 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 05:34:53,984 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 05:35:00,494 :INFO : test_WhatsappBotSanity : iTAX Service Bot working fine
+2022-09-17 05:35:07,118 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot working fine
+2022-09-17 05:35:13,582 :INFO : test_WhatsappBotSanity : Madhavbaug Bot working fine
+2022-09-17 05:35:20,050 :INFO : test_WhatsappBotSanity : Sugam Solar Bot working fine
+2022-09-17 05:35:26,518 :INFO : test_WhatsappBotSanity : UPL Farmer Bot working fine
+2022-09-17 05:35:32,956 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot working fine
+2022-09-17 05:35:39,457 :INFO : test_WhatsappBotSanity : Sanctum Bot working fine
+2022-09-17 05:35:46,055 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot working fine
+2022-09-17 05:36:50,729 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 05:36:55,075 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 05:36:59,434 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 05:37:03,783 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 05:37:08,232 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 05:37:12,561 :INFO : test_WhatsappBotSanity : iTAX Service Bot working fine
+2022-09-17 05:37:16,837 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot working fine
+2022-09-17 05:37:21,153 :INFO : test_WhatsappBotSanity : Madhavbaug Bot working fine
+2022-09-17 05:37:25,415 :INFO : test_WhatsappBotSanity : Sugam Solar Bot working fine
+2022-09-17 05:37:29,712 :INFO : test_WhatsappBotSanity : UPL Farmer Bot working fine
+2022-09-17 05:37:34,034 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot working fine
+2022-09-17 05:37:38,351 :INFO : test_WhatsappBotSanity : Sanctum Bot working fine
+2022-09-17 05:37:42,660 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot working fine
+2022-09-17 05:47:53,966 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 05:47:58,528 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 05:48:03,038 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 05:48:07,624 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 05:48:12,093 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 05:48:16,615 :INFO : test_WhatsappBotSanity : iTAX Service Bot working fine
+2022-09-17 05:48:21,008 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot working fine
+2022-09-17 05:48:51,092 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or adhavbaug Bot does not exist
+2022-09-17 05:48:51,111 :ERROR : test_WhatsappBotSanity : Issue seen in adhavbaug Bot
+2022-09-17 05:48:55,722 :INFO : test_WhatsappBotSanity : Sugam Solar Bot working fine
+2022-09-17 05:49:00,442 :INFO : test_WhatsappBotSanity : UPL Farmer Bot working fine
+2022-09-17 05:49:04,883 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot working fine
+2022-09-17 05:49:34,935 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or anctum Bot does not exist
+2022-09-17 05:49:34,935 :ERROR : test_WhatsappBotSanity : Issue seen in anctum Bot
+2022-09-17 05:49:39,507 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot working fine
+2022-09-17 05:50:03,036 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 05:50:20,807 :INFO : test_WebBotSanity : 'https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl' working fine
+2022-09-17 06:05:09,755 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 06:05:27,593 :INFO : test_WebBotSanity : 'https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl' working fine
+2022-09-17 06:10:25,975 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 06:10:43,354 :ERROR : test_WebBotSanity : Issue seen in https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl
+2022-09-17 06:35:54,397 :INFO : test_WebBotSanity : 'https://curatiohealthcare.com/' working fine
+2022-09-17 06:36:01,355 :INFO : test_WebBotSanity : 'https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl' working fine
+2022-09-17 06:42:35,195 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 06:42:39,923 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 06:42:44,693 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 06:42:49,321 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 09:04:31,727 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 09:04:36,469 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 09:04:41,270 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 09:04:45,968 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 09:04:50,606 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 09:04:55,271 :INFO : test_WhatsappBotSanity : iTAX Service Bot working fine
+2022-09-17 09:04:59,911 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot working fine
+2022-09-17 09:05:04,581 :INFO : test_WhatsappBotSanity : Madhavbaug Bot working fine
+2022-09-17 09:05:09,293 :INFO : test_WhatsappBotSanity : Sugam Solar Bot working fine
+2022-09-17 09:05:13,995 :INFO : test_WhatsappBotSanity : UPL Farmer Bot working fine
+2022-09-17 09:05:18,671 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot working fine
+2022-09-17 09:05:23,387 :INFO : test_WhatsappBotSanity : Sanctum Bot working fine
+2022-09-17 09:05:28,112 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot working fine
+2022-09-17 09:05:37,862 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 09:05:44,891 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 09:07:18,128 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or Curatio Bot name does not exist
+2022-09-17 09:07:18,131 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-17 09:07:18,134 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or Metropolis Healthcare Bot name does not exist
+2022-09-17 09:07:18,140 :ERROR : test_WhatsappBotSanity : Issue seen in Metropolis Healthcare Bot
+2022-09-17 09:07:18,144 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or Motilal Oswal Bot name does not exist
+2022-09-17 09:07:18,148 :ERROR : test_WhatsappBotSanity : Issue seen in Motilal Oswal Bot
+2022-09-17 09:07:18,152 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or SOAL Bot name does not exist
+2022-09-17 09:07:18,159 :ERROR : test_WhatsappBotSanity : Issue seen in SOAL Bot
+2022-09-17 09:07:18,183 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or Goapptiv Piesa Bot name does not exist
+2022-09-17 09:07:18,191 :ERROR : test_WhatsappBotSanity : Issue seen in Goapptiv Piesa Bot
+2022-09-17 09:07:18,199 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or iTAX Service Bot name does not exist
+2022-09-17 09:07:18,210 :ERROR : test_WhatsappBotSanity : Issue seen in iTAX Service Bot
+2022-09-17 09:07:18,234 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or Nanhi Kali Bot name does not exist
+2022-09-17 09:07:18,239 :ERROR : test_WhatsappBotSanity : Issue seen in Nanhi Kali Bot
+2022-09-17 09:07:18,246 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or Madhavbaug Bot name does not exist
+2022-09-17 09:07:18,250 :ERROR : test_WhatsappBotSanity : Issue seen in Madhavbaug Bot
+2022-09-17 09:07:18,253 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or Sugam Solar Bot name does not exist
+2022-09-17 09:07:18,255 :ERROR : test_WhatsappBotSanity : Issue seen in Sugam Solar Bot
+2022-09-17 09:07:18,257 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or UPL Farmer Bot name does not exist
+2022-09-17 09:07:18,263 :ERROR : test_WhatsappBotSanity : Issue seen in UPL Farmer Bot
+2022-09-17 09:07:18,265 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or UPL Retailer Prod Bot name does not exist
+2022-09-17 09:07:18,271 :ERROR : test_WhatsappBotSanity : Issue seen in UPL Retailer Prod Bot
+2022-09-17 09:07:18,275 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or Sanctum Bot name does not exist
+2022-09-17 09:07:18,281 :ERROR : test_WhatsappBotSanity : Issue seen in Sanctum Bot
+2022-09-17 09:07:18,284 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or Cherise Tapri Chatbot name does not exist
+2022-09-17 09:07:18,289 :ERROR : test_WhatsappBotSanity : Issue seen in Cherise Tapri Chatbot
+2022-09-17 09:07:22,855 :ERROR : test_WebBotSanity : Issue seen in https://curatiohealthcare.com/
+2022-09-17 09:07:56,514 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 09:08:01,324 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 09:08:06,210 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 09:08:11,037 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 09:08:16,542 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 09:08:21,430 :INFO : test_WhatsappBotSanity : iTAX Service Bot working fine
+2022-09-17 09:08:25,999 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot working fine
+2022-09-17 09:08:30,846 :INFO : test_WhatsappBotSanity : Madhavbaug Bot working fine
+2022-09-17 09:08:35,548 :INFO : test_WhatsappBotSanity : Sugam Solar Bot working fine
+2022-09-17 09:08:40,227 :INFO : test_WhatsappBotSanity : UPL Farmer Bot working fine
+2022-09-17 09:08:44,868 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot working fine
+2022-09-17 09:08:49,563 :INFO : test_WhatsappBotSanity : Sanctum Bot working fine
+2022-09-17 09:08:54,341 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot working fine
+2022-09-17 09:09:03,683 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 09:09:07,723 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 11:01:20,819 :INFO : test_WhatsappBotSanity : Curatio Bot working fine
+2022-09-17 11:01:25,269 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot working fine
+2022-09-17 11:01:29,782 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot working fine
+2022-09-17 11:01:34,321 :INFO : test_WhatsappBotSanity : SOAL Bot working fine
+2022-09-17 11:01:38,859 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot working fine
+2022-09-17 11:01:43,364 :INFO : test_WhatsappBotSanity : iTAX Service Bot working fine
+2022-09-17 11:01:47,866 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot working fine
+2022-09-17 11:01:52,332 :INFO : test_WhatsappBotSanity : Madhavbaug Bot working fine
+2022-09-17 11:01:56,747 :INFO : test_WhatsappBotSanity : Sugam Solar Bot working fine
+2022-09-17 11:02:01,161 :INFO : test_WhatsappBotSanity : UPL Farmer Bot working fine
+2022-09-17 11:02:05,596 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot working fine
+2022-09-17 11:02:09,975 :INFO : test_WhatsappBotSanity : Sanctum Bot working fine
+2022-09-17 11:02:14,455 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot working fine
+2022-09-17 11:02:23,284 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 11:02:26,630 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 16:57:39,500 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-17 16:57:49,035 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 16:57:52,401 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 16:59:24,380 :INFO : test_WhatsappBotSanity : Curatio Bot half_code
+2022-09-17 16:59:24,415 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-17 16:59:34,557 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 16:59:37,965 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 17:01:04,431 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-17 17:04:14,400 :INFO : test_WhatsappBotSanity : Curatio Bot half_code
+2022-09-17 17:04:14,400 :ERROR : test_WhatsappBotSanity : Curatio Bot does not match
+2022-09-17 17:04:52,393 :INFO : test_WhatsappBotSanity : Curatio Bot half_code
+2022-09-17 17:04:52,393 :ERROR : test_WhatsappBotSanity : Curatio Bot does not match
+2022-09-17 17:06:33,078 :INFO : test_WhatsappBotSanity : Curatio Bot half_code
+2022-09-17 17:06:33,078 :INFO : test_WhatsappBotSanity : Hi is the last text
+2022-09-17 17:06:33,078 :ERROR : test_WhatsappBotSanity : Curatio Bot does not match
+2022-09-17 17:07:52,283 :INFO : test_WhatsappBotSanity : Curatio Bot half_code
+2022-09-17 17:07:52,283 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 17:07:52,283 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-17 17:20:20,597 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 17:20:20,597 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-17 17:20:33,102 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 17:20:33,102 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-17 17:20:45,559 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 17:20:45,559 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-17 17:20:48,002 :INFO : test_WhatsappBotSanity : Hi is the last text
+2022-09-17 17:20:48,002 :ERROR : test_WhatsappBotSanity : SOAL Bot does not match
+2022-09-17 17:22:31,727 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-17 17:22:34,254 :ERROR : test_WhatsappBotSanity : Issue seen in Metropolis Healthcare Bot
+2022-09-17 17:22:36,774 :ERROR : test_WhatsappBotSanity : Issue seen in Motilal Oswal Bot
+2022-09-17 17:22:49,408 :INFO : test_WhatsappBotSanity : What can Fuzzy help you with today? is the last text
+2022-09-17 17:22:49,408 :ERROR : test_WhatsappBotSanity : SOAL Bot does not match
+2022-09-17 17:24:18,016 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-17 17:24:20,621 :ERROR : test_WhatsappBotSanity : Issue seen in Metropolis Healthcare Bot
+2022-09-17 17:24:23,275 :ERROR : test_WhatsappBotSanity : Issue seen in Motilal Oswal Bot
+2022-09-17 17:24:37,827 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-17 17:24:37,827 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-17 17:26:19,297 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 17:26:19,297 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-17 17:26:34,148 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 17:26:34,148 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-17 17:26:48,977 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 17:26:48,977 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-17 17:27:03,714 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-17 17:27:03,714 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-17 17:37:36,653 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 17:37:36,654 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-17 17:37:51,343 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 17:37:51,343 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-17 17:38:06,143 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 17:38:06,143 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-17 17:38:20,821 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-17 17:38:20,821 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-17 21:16:25,427 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 21:16:25,427 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-17 21:16:41,076 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 21:16:41,076 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-17 21:16:56,727 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 21:16:56,727 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-17 21:17:12,341 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-17 21:17:12,341 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-17 21:17:27,934 :ERROR : test_WhatsappBotSanity : Goapptiv Piesa Bot does not match
+2022-09-17 21:17:43,463 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-17 21:17:43,463 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-17 21:17:58,899 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-17 21:17:58,899 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-17 21:18:14,421 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-17 21:18:14,421 :ERROR : test_WhatsappBotSanity : Madhavbaug Bot does not match
+2022-09-17 21:18:29,942 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-17 21:18:29,942 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-17 21:18:45,571 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-17 21:18:45,571 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-17 21:19:01,124 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-17 21:19:01,124 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-17 21:19:16,618 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-17 21:19:16,618 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-17 21:19:32,003 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-17 21:19:32,003 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-17 21:28:22,429 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 21:28:22,429 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-17 21:28:37,952 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 21:28:37,952 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-17 21:28:53,544 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 21:28:53,544 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-17 21:29:08,987 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-17 21:29:08,987 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-17 21:29:24,433 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-17 21:29:24,433 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-17 21:29:39,906 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-17 21:29:39,906 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-17 21:29:55,451 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-17 21:29:55,451 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-17 21:30:10,974 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-17 21:30:10,974 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-17 21:30:26,453 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-17 21:30:26,453 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-17 21:30:41,957 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-17 21:30:41,957 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-17 21:30:57,613 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-17 21:30:57,613 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-17 21:31:13,148 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-17 21:31:13,148 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-17 21:31:28,548 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-17 21:31:28,548 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-17 21:31:37,765 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 21:31:40,945 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 22:30:03,830 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 22:30:03,830 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-17 22:30:19,370 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 22:30:19,370 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-17 22:30:34,982 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 22:30:34,982 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-17 22:30:50,544 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-17 22:30:50,544 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-17 22:31:06,036 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-17 22:31:06,036 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-17 22:31:21,558 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-17 22:31:21,558 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-17 22:31:30,649 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 22:31:34,003 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 22:31:34,003 :WARNING : test_WebBotSanity :[]
+2022-09-17 22:43:57,004 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 22:44:00,493 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 22:44:00,494 :WARNING : test_WebBotSanity :These Bot are impacted [] 
+2022-09-17 22:44:53,783 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 22:44:57,557 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 22:44:57,557 :WARNING : test_WebBotSanity :These Bot are impacted [] 
+2022-09-17 22:44:57,558 :INFO : test_WebBotSanity :These Bots are working fine ['Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-17 22:47:05,784 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 22:47:12,975 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 22:47:15,246 :WARNING : test_Main :These Bot are impacted [] 
+2022-09-17 22:47:15,246 :INFO : test_Main :These Bots are working fine ['Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-17 22:49:42,159 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 22:49:42,159 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-17 22:49:57,907 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 22:49:57,907 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-17 22:50:13,702 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 22:50:13,702 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-17 22:50:29,646 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-17 22:50:29,646 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-17 22:50:45,462 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-17 22:50:45,462 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-17 22:51:01,298 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-17 22:51:01,299 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-17 22:51:17,161 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-17 22:51:17,161 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-17 22:51:32,898 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-17 22:51:32,898 :ERROR : test_WhatsappBotSanity : Madhavbaug Bot does not match
+2022-09-17 22:51:48,843 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-17 22:51:48,844 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-17 22:52:04,641 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-17 22:52:04,641 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-17 22:52:20,433 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-17 22:52:20,433 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-17 22:52:36,107 :INFO : test_WhatsappBotSanity : Hi is the last text
+2022-09-17 22:52:36,107 :ERROR : test_WhatsappBotSanity : UPL Farmer Bot does not match
+2022-09-17 22:52:51,711 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-17 22:52:51,711 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-17 22:53:01,262 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 22:53:05,380 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 22:53:07,659 :WARNING : test_Main :These Bot are impacted ['Madhavbaug Bot', 'UPL Farmer Bot'] 
+2022-09-17 22:53:07,659 :INFO : test_Main :These Bots are working fine ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-17 23:10:08,584 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-17 23:10:08,585 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-17 23:10:24,331 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-17 23:10:24,331 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-17 23:10:33,417 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 23:10:42,249 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 23:10:44,531 :WARNING : test_Main :These Bot are impacted [] 
+2022-09-17 23:10:44,531 :INFO : test_Main :These Bots are working fine ['UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-17 23:16:52,895 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 23:17:02,636 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 23:19:34,204 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 23:19:40,585 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 23:19:42,844 :WARNING : test_Main :These 0 Bot are impacted [] 
+2022-09-17 23:19:42,844 :INFO : test_Main :These 2 Bots are working fine ['Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-17 23:22:14,123 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 23:22:20,105 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 23:22:22,360 :INFO : test_Main :Everything working fine
+2022-09-17 23:22:22,360 :INFO : test_Main :These 2 Bots are working fine ['Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-17 23:24:49,128 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 23:24:49,128 :ERROR : test_WhatsappBotSanity : Curatio Bot does not match
+2022-09-17 23:24:58,327 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 23:25:08,433 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 23:25:10,660 :WARNING : test_Main :These 1 Bot are impacted ['Curatio Bot'] 
+2022-09-17 23:25:10,660 :INFO : test_Main :These 2 Bots are working fine ['Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-17 23:32:13,813 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 23:32:13,813 :ERROR : test_WhatsappBotSanity : Curatio Bot does not match
+2022-09-17 23:32:29,529 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 23:32:29,529 :ERROR : test_WhatsappBotSanity : Metropolis Healthcare Bot does not match
+2022-09-17 23:32:45,832 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 23:32:45,832 :ERROR : test_WhatsappBotSanity : Motilal Oswal Bot does not match
+2022-09-17 23:33:02,252 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-17 23:33:02,252 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-17 23:33:18,130 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-17 23:33:18,130 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-17 23:33:33,926 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-17 23:33:33,927 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-17 23:33:49,804 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-17 23:33:49,804 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-17 23:34:05,692 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-17 23:34:05,692 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-17 23:34:21,485 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-17 23:34:21,485 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-17 23:34:37,206 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-17 23:34:37,207 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-17 23:34:53,270 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-17 23:34:53,270 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-17 23:35:09,068 :INFO : test_WhatsappBotSanity : Hello, Welcome to WhatsApp support services of nurture.farm care. Please press '*' in case you wish to change your language otherwise, Please select from the option given below, to proceed further:- is the last text
+2022-09-17 23:35:49,122 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-17 23:36:04,747 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-17 23:36:04,748 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-17 23:36:14,041 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 23:36:22,972 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 23:36:25,231 :WARNING : test_Main :Following 3 Bot is impacted ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot'] 
+2022-09-17 23:36:25,231 :INFO : test_Main :Following 12 Bot is working fine ['SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-17 23:49:38,937 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-17 23:49:38,938 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-17 23:54:08,608 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-17 23:54:08,609 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-17 23:54:24,321 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-17 23:54:24,322 :ERROR : test_WhatsappBotSanity : Issue seen in Sanctum Bot
+2022-09-17 23:54:33,856 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-17 23:54:39,185 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-17 23:54:41,416 :WARNING : test_Results :Following 1 Bot is impacted ['Sanctum Bot'] 
+2022-09-17 23:54:41,417 :INFO : test_Results :Following 3 Bot is working fine ['SOAL Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-18 00:01:22,628 :INFO : test_WhatsappBotSanity : Hey! Welcome to School of Accelerated Learning. I'm FuzzyBot & I'll be your guide throughout your SOAL journey. I'll be around whenever you need me.  is the last text
+2022-09-18 00:01:22,629 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-18 00:01:38,602 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-18 00:01:38,602 :ERROR : test_WhatsappBotSanity : Issue seen in Sanctum Bot
+2022-09-18 00:01:47,710 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-18 00:01:59,435 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-18 00:02:01,682 :WARNING : test_Results :Following 1 Bot is impacted ['Sanctum Bot'] 
+2022-09-18 00:02:01,683 :INFO : test_Results :Following 3 Bot is working fine ['SOAL Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-18 00:04:44,925 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-18 00:04:44,926 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-18 00:05:00,714 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-18 00:05:00,715 :ERROR : test_WhatsappBotSanity : Issue seen in Sanctum Bot
+2022-09-18 00:05:09,948 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-18 00:05:18,339 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-18 00:05:21,673 :WARNING : test_Results :Following 1 Bot is impacted ['Sanctum Bot'] 
+2022-09-18 00:05:21,673 :INFO : test_Results :Following 3 Bot is working fine ['SOAL Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-18 00:10:22,012 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-18 00:10:22,012 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-18 00:10:37,714 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-18 00:10:37,714 :ERROR : test_WhatsappBotSanity : Issue seen in Sanctum Bot
+2022-09-18 00:10:40,058 :WARNING : test_Results :Following 1 Bot is impacted ['Sanctum Bot'] 
+2022-09-18 00:10:40,058 :INFO : test_Results :Following 1 Bot is working fine ['SOAL Bot'] 
+2022-09-18 00:13:36,295 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-18 00:13:36,296 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-18 00:13:52,350 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-18 00:13:52,350 :ERROR : test_WhatsappBotSanity : Issue seen in Sanctum Bot
+2022-09-18 00:13:54,643 :WARNING : test_Results :Following 1 Bot is impacted ['Sanctum Bot'] 
+2022-09-18 00:13:54,644 :INFO : test_Results :Following 1 Bot is working fine ['SOAL Bot'] 
+2022-09-18 00:15:06,557 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-18 00:15:06,558 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-18 00:15:22,253 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-18 00:15:22,254 :ERROR : test_WhatsappBotSanity : Issue seen in Sanctum Bot
+2022-09-18 00:15:24,597 :WARNING : test_Results :Following 1 Bot is impacted ['Sanctum Bot'] 
+2022-09-18 00:15:24,597 :INFO : test_Results :Following 1 Bot is working fine ['SOAL Bot'] 
+2022-09-18 00:17:45,420 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-18 00:17:45,420 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-18 00:18:01,106 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-18 00:18:01,106 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-18 00:18:03,402 :INFO : test_Results :All bots are working fine
+2022-09-18 00:18:03,402 :INFO : test_Results :Following 2 Bot is working fine ['SOAL Bot', 'Sanctum Bot'] 
+2022-09-18 00:21:08,001 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 00:21:08,001 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-18 00:21:23,936 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 00:21:23,936 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-18 00:21:39,921 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 00:21:39,921 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-18 00:21:55,717 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-18 00:21:55,718 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-18 00:22:11,536 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-18 00:22:11,536 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-18 00:22:27,340 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-18 00:22:27,340 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-18 00:22:43,097 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-18 00:22:43,097 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-18 00:22:58,949 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-18 00:22:58,949 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-18 00:23:14,829 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-18 00:23:14,830 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-18 00:23:30,461 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-18 00:23:30,461 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-18 00:23:46,170 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-18 00:23:46,170 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-18 00:24:02,059 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-18 00:24:02,060 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-18 00:24:17,693 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-18 00:24:17,693 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-18 00:24:26,536 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-18 00:24:35,602 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-18 00:24:37,823 :INFO : test_Results :All bots are working fine
+2022-09-18 00:24:37,823 :INFO : test_Results :Following 15 Bot is working fine ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-18 13:18:07,305 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 13:18:07,306 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-18 13:18:23,219 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 13:18:23,219 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-18 13:18:39,132 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 13:18:39,132 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-18 13:18:54,996 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-18 13:18:54,996 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-18 13:19:10,927 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-18 13:19:10,927 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-18 13:19:26,729 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-18 13:19:26,729 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-18 13:19:42,511 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-18 13:19:42,511 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-18 13:19:58,463 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-18 13:19:58,463 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-18 13:20:14,313 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-18 13:20:14,313 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-18 13:20:30,083 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-18 13:20:30,083 :ERROR : test_WhatsappBotSanity : Sanctum Bot does not match
+2022-09-18 13:20:45,856 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-18 13:20:45,856 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-18 13:21:01,599 :INFO : test_WhatsappBotSanity : Hi is the last text
+2022-09-18 13:21:41,649 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-18 13:21:57,372 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-18 13:21:57,372 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-18 13:22:09,777 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-18 13:22:13,576 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-18 13:22:15,892 :WARNING : test_Results :Following 1 Bot is impacted ['Sanctum Bot'] 
+2022-09-18 13:22:15,893 :INFO : test_Results :Following 14 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-18 16:58:13,373 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-18 16:58:13,611 :ERROR : test_WhatsappBotSanity : Issue seen in UPL Farmer Bot
+2022-09-18 16:58:15,937 :WARNING : test_Results :Following 2 Bot is impacted ['Curatio Bot', 'UPL Farmer Bot'] 
+2022-09-18 16:58:15,937 :INFO : test_Results :Following 0 Bots is working [] 
+2022-09-18 17:30:38,301 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-18 17:30:38,583 :ERROR : test_WhatsappBotSanity : Issue seen in Metropolis Healthcare Bot
+2022-09-18 17:30:39,300 :ERROR : test_WhatsappBotSanity : Issue seen in Motilal Oswal Bot
+2022-09-18 17:30:39,560 :ERROR : test_WhatsappBotSanity : Issue seen in SOAL Bot
+2022-09-18 17:30:39,799 :ERROR : test_WhatsappBotSanity : Issue seen in Goapptiv Piesa Bot
+2022-09-18 17:30:40,008 :ERROR : test_WhatsappBotSanity : Issue seen in iTAX Service Bot
+2022-09-18 17:30:40,256 :ERROR : test_WhatsappBotSanity : Issue seen in Nanhi Kali Bot
+2022-09-18 17:30:40,511 :ERROR : test_WhatsappBotSanity : Issue seen in Madhavbaug Bot
+2022-09-18 17:30:40,741 :ERROR : test_WhatsappBotSanity : Issue seen in Sugam Solar Bot
+2022-09-18 17:30:40,944 :ERROR : test_WhatsappBotSanity : Issue seen in Sanctum Bot
+2022-09-18 17:30:41,150 :ERROR : test_WhatsappBotSanity : Issue seen in Cherise Tapri Chatbot
+2022-09-18 17:30:41,466 :ERROR : test_WhatsappBotSanity : Issue seen in UPL Farmer Bot
+2022-09-18 17:30:41,784 :ERROR : test_WhatsappBotSanity : Issue seen in UPL Retailer Prod Bot
+2022-09-18 17:30:50,645 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-18 17:30:51,259 :WARNING : test_Results :Following 13 Bot is impacted ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot'] 
+2022-09-18 17:30:51,260 :INFO : test_Results :Following 1 Bots is working ['Curatio Web Bot'] 
+2022-09-18 17:31:51,718 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-18 17:31:52,192 :ERROR : test_WhatsappBotSanity : Issue seen in Metropolis Healthcare Bot
+2022-09-18 17:31:52,813 :ERROR : test_WhatsappBotSanity : Issue seen in Motilal Oswal Bot
+2022-09-18 17:31:53,155 :ERROR : test_WhatsappBotSanity : Issue seen in SOAL Bot
+2022-09-18 17:31:53,508 :ERROR : test_WhatsappBotSanity : Issue seen in Goapptiv Piesa Bot
+2022-09-18 17:31:53,805 :ERROR : test_WhatsappBotSanity : Issue seen in iTAX Service Bot
+2022-09-18 17:31:54,207 :ERROR : test_WhatsappBotSanity : Issue seen in Nanhi Kali Bot
+2022-09-18 17:31:54,474 :ERROR : test_WhatsappBotSanity : Issue seen in Madhavbaug Bot
+2022-09-18 17:31:54,776 :ERROR : test_WhatsappBotSanity : Issue seen in Sugam Solar Bot
+2022-09-18 17:31:55,083 :ERROR : test_WhatsappBotSanity : Issue seen in Sanctum Bot
+2022-09-18 17:31:55,374 :ERROR : test_WhatsappBotSanity : Issue seen in Cherise Tapri Chatbot
+2022-09-18 17:31:55,688 :ERROR : test_WhatsappBotSanity : Issue seen in UPL Farmer Bot
+2022-09-18 17:31:55,986 :ERROR : test_WhatsappBotSanity : Issue seen in UPL Retailer Prod Bot
+2022-09-18 17:32:05,140 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-18 17:32:08,526 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-18 17:32:10,642 :WARNING : test_Results :Following 13 Bot is impacted ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot'] 
+2022-09-18 17:32:10,642 :INFO : test_Results :Following 2 Bots is working ['Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-18 17:37:43,569 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-18 17:37:45,914 :WARNING : test_Results :Following 1 Bot is impacted ['Curatio Bot'] 
+2022-09-18 17:37:45,915 :INFO : test_Results :Following 0 Bots is working [] 
+2022-09-18 17:38:55,912 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-18 17:38:58,273 :WARNING : test_Results :Following 1 Bot is impacted ['Curatio Bot'] 
+2022-09-18 17:38:58,273 :INFO : test_Results :Following 0 Bots is working [] 
+2022-09-18 17:40:12,276 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-18 17:40:14,632 :WARNING : test_Results :Following 1 Bot is impacted ['Curatio Bot'] 
+2022-09-18 17:40:14,632 :INFO : test_Results :Following 0 Bots is working [] 
+2022-09-18 17:41:26,560 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-18 17:41:28,877 :WARNING : test_Results :Following 1 Bot is impacted ['Curatio Bot'] 
+2022-09-18 17:41:28,878 :INFO : test_Results :Following 0 Bots is working [] 
+2022-09-18 17:42:23,859 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-18 17:42:26,196 :WARNING : test_Results :Following 1 Bot is impacted ['Curatio Bot'] 
+2022-09-18 17:42:26,196 :INFO : test_Results :Following 0 Bots is working [] 
+2022-09-18 17:44:13,239 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-18 17:44:15,546 :WARNING : test_Results :Following 1 Bot is impacted ['Curatio Bot'] 
+2022-09-18 17:44:15,546 :INFO : test_Results :Following 0 Bots is working [] 
+2022-09-18 17:45:57,139 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 17:45:57,140 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-18 17:46:12,557 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 17:46:12,557 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-18 17:46:28,005 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 17:46:28,005 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-18 17:46:43,481 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-18 17:46:43,481 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-18 17:46:58,936 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-18 17:46:58,936 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-18 17:47:14,391 :INFO : test_WhatsappBotSanity : Please type * to change the language and type ^^ to go the main menu is the last text
+2022-09-18 17:47:14,391 :ERROR : test_WhatsappBotSanity : iTAX Service Bot does not match
+2022-09-18 17:47:29,943 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-18 17:47:29,943 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-18 17:47:45,743 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-18 17:47:45,744 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-18 17:48:01,687 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-18 17:48:01,687 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-18 17:48:17,144 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-18 17:48:17,144 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-18 17:48:32,615 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-18 17:48:32,615 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-18 17:48:48,468 :INFO : test_WhatsappBotSanity : Hi is the last text
+2022-09-18 17:49:28,537 :ERROR : test_WhatsappBotSanity : UPL Farmer Bot does not match
+2022-09-18 17:49:43,914 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-18 17:49:43,914 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-18 17:49:53,129 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-18 17:49:56,626 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-18 17:49:58,875 :WARNING : test_Results :Following 2 Bot is impacted ['iTAX Service Bot', 'UPL Farmer Bot'] 
+2022-09-18 17:49:58,876 :INFO : test_Results :Following 13 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-18 18:00:44,156 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 18:00:44,156 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-18 18:00:59,588 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 18:00:59,588 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-18 18:01:15,107 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 18:01:15,107 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-18 18:01:30,651 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-18 18:01:30,651 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-18 18:01:46,169 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-18 18:01:46,169 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-18 18:02:01,859 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-18 18:02:01,859 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-18 18:02:17,356 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-18 18:02:17,356 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-18 18:02:32,958 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-18 18:02:32,958 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-18 18:02:48,516 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-18 18:02:48,516 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-18 18:03:04,004 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-18 18:03:04,004 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-18 18:03:19,485 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-18 18:03:19,485 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-18 18:03:35,010 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-18 18:03:35,010 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-18 18:03:50,401 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-18 18:03:50,401 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-18 18:03:58,856 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-18 18:04:02,258 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-18 18:04:04,328 :INFO : test_Results :All bots are working fine
+2022-09-18 18:04:04,328 :INFO : test_Results :Following 15 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-18 18:11:11,628 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-18 18:11:12,026 :ERROR : test_WhatsappBotSanity : Issue seen in Metropolis Healthcare Bot
+2022-09-18 18:11:12,563 :ERROR : test_WhatsappBotSanity : Issue seen in Motilal Oswal Bot
+2022-09-18 18:11:12,794 :ERROR : test_WhatsappBotSanity : Issue seen in SOAL Bot
+2022-09-18 18:11:13,001 :ERROR : test_WhatsappBotSanity : Issue seen in Goapptiv Piesa Bot
+2022-09-18 18:11:13,306 :ERROR : test_WhatsappBotSanity : Issue seen in iTAX Service Bot
+2022-09-18 18:11:13,653 :ERROR : test_WhatsappBotSanity : Issue seen in Nanhi Kali Bot
+2022-09-18 18:11:14,028 :ERROR : test_WhatsappBotSanity : Issue seen in Madhavbaug Bot
+2022-09-18 18:11:14,458 :ERROR : test_WhatsappBotSanity : Issue seen in Sugam Solar Bot
+2022-09-18 18:11:14,625 :ERROR : test_WhatsappBotSanity : Issue seen in Sanctum Bot
+2022-09-18 18:11:14,921 :ERROR : test_WhatsappBotSanity : Issue seen in Cherise Tapri Chatbot
+2022-09-18 18:11:15,242 :ERROR : test_WhatsappBotSanity : Issue seen in UPL Farmer Bot
+2022-09-18 18:11:15,605 :ERROR : test_WhatsappBotSanity : Issue seen in UPL Retailer Prod Bot
+2022-09-18 18:11:24,747 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-18 18:11:28,110 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-18 18:11:30,299 :WARNING : test_Results :Following 13 Bot is impacted ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot'] 
+2022-09-18 18:11:30,300 :INFO : test_Results :Following 2 Bots is working ['Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-18 18:40:28,907 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-18 18:40:29,130 :ERROR : test_WhatsappBotSanity : Issue seen in Metropolis Healthcare Bot
+2022-09-18 18:40:29,531 :ERROR : test_WhatsappBotSanity : Issue seen in Motilal Oswal Bot
+2022-09-18 18:40:30,082 :ERROR : test_WhatsappBotSanity : Issue seen in SOAL Bot
+2022-09-18 18:40:30,375 :ERROR : test_WhatsappBotSanity : Issue seen in Goapptiv Piesa Bot
+2022-09-18 18:40:30,683 :ERROR : test_WhatsappBotSanity : Issue seen in iTAX Service Bot
+2022-09-18 18:40:30,986 :ERROR : test_WhatsappBotSanity : Issue seen in Nanhi Kali Bot
+2022-09-18 18:40:31,270 :ERROR : test_WhatsappBotSanity : Issue seen in Madhavbaug Bot
+2022-09-18 18:40:31,446 :ERROR : test_WhatsappBotSanity : Issue seen in Sugam Solar Bot
+2022-09-18 18:40:31,671 :ERROR : test_WhatsappBotSanity : Issue seen in Sanctum Bot
+2022-09-18 18:40:31,904 :ERROR : test_WhatsappBotSanity : Issue seen in Cherise Tapri Chatbot
+2022-09-18 18:40:32,111 :ERROR : test_WhatsappBotSanity : Issue seen in UPL Farmer Bot
+2022-09-18 18:40:32,334 :ERROR : test_WhatsappBotSanity : Issue seen in UPL Retailer Prod Bot
+2022-09-18 18:40:41,914 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-18 18:40:47,215 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-18 18:40:49,316 :WARNING : test_Results :Following 13 Bot is impacted ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot'] 
+2022-09-18 18:40:49,316 :INFO : test_Results :Following 2 Bots is working ['Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-18 18:42:20,800 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 18:42:20,800 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-18 18:42:36,608 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 18:42:36,608 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-18 18:42:52,319 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 18:42:52,319 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-18 18:43:08,494 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-18 18:43:08,494 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-18 18:43:24,586 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-18 18:43:24,586 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-18 18:43:40,586 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-18 18:43:40,587 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-18 18:43:56,426 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-18 18:43:56,426 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-18 18:44:12,586 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-18 18:44:12,586 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-18 18:44:28,609 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-18 18:44:28,609 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-18 18:44:44,669 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-18 18:44:44,669 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-18 18:45:00,650 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-18 18:45:00,650 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-18 18:45:16,800 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-18 18:45:16,800 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-18 18:45:32,364 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-18 18:45:32,364 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-18 18:45:42,015 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-18 18:45:45,581 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-18 18:45:47,894 :INFO : test_Results :All bots are working fine
+2022-09-18 18:45:47,894 :INFO : test_Results :Following 15 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-18 23:12:14,551 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-18 23:12:14,800 :ERROR : test_WhatsappBotSanity : Issue seen in Metropolis Healthcare Bot
+2022-09-18 23:12:15,023 :ERROR : test_WhatsappBotSanity : Issue seen in Motilal Oswal Bot
+2022-09-18 23:12:15,158 :ERROR : test_WhatsappBotSanity : Issue seen in SOAL Bot
+2022-09-18 23:12:15,538 :ERROR : test_WhatsappBotSanity : Issue seen in Goapptiv Piesa Bot
+2022-09-18 23:12:15,713 :ERROR : test_WhatsappBotSanity : Issue seen in iTAX Service Bot
+2022-09-18 23:12:15,839 :ERROR : test_WhatsappBotSanity : Issue seen in Nanhi Kali Bot
+2022-09-18 23:12:15,973 :ERROR : test_WhatsappBotSanity : Issue seen in Madhavbaug Bot
+2022-09-18 23:12:16,159 :ERROR : test_WhatsappBotSanity : Issue seen in Sugam Solar Bot
+2022-09-18 23:12:16,314 :ERROR : test_WhatsappBotSanity : Issue seen in Sanctum Bot
+2022-09-18 23:12:16,498 :ERROR : test_WhatsappBotSanity : Issue seen in Cherise Tapri Chatbot
+2022-09-18 23:12:16,615 :ERROR : test_WhatsappBotSanity : Issue seen in UPL Farmer Bot
+2022-09-18 23:12:16,756 :ERROR : test_WhatsappBotSanity : Issue seen in UPL Retailer Prod Bot
+2022-09-18 23:12:25,940 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-18 23:12:26,754 :ERROR : test_WebBotSanity : Issue seen in https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl
+2022-09-18 23:12:28,799 :WARNING : test_Results :Following 14 Bot is impacted ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'ARC Fertility Bot'] 
+2022-09-18 23:12:28,800 :INFO : test_Results :Following 1 Bots is working ['Curatio Web Bot'] 
+2022-09-18 23:13:13,424 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-18 23:13:15,726 :ERROR : test_WhatsappBotSanity : Issue seen in Metropolis Healthcare Bot
+2022-09-18 23:13:18,003 :ERROR : test_WhatsappBotSanity : Issue seen in Motilal Oswal Bot
+2022-09-18 23:13:20,280 :ERROR : test_WhatsappBotSanity : Issue seen in SOAL Bot
+2022-09-18 23:13:22,532 :ERROR : test_WhatsappBotSanity : Issue seen in Goapptiv Piesa Bot
+2022-09-18 23:13:24,812 :ERROR : test_WhatsappBotSanity : Issue seen in iTAX Service Bot
+2022-09-18 23:13:27,098 :ERROR : test_WhatsappBotSanity : Issue seen in Nanhi Kali Bot
+2022-09-18 23:13:29,312 :ERROR : test_WhatsappBotSanity : Issue seen in Madhavbaug Bot
+2022-09-18 23:13:31,593 :ERROR : test_WhatsappBotSanity : Issue seen in Sugam Solar Bot
+2022-09-18 23:13:33,958 :ERROR : test_WhatsappBotSanity : Issue seen in Sanctum Bot
+2022-09-18 23:13:36,247 :ERROR : test_WhatsappBotSanity : Issue seen in Cherise Tapri Chatbot
+2022-09-18 23:19:11,485 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 23:19:11,485 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-18 23:19:27,027 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 23:19:27,028 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-18 23:19:42,534 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-18 23:19:42,534 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-18 23:19:57,980 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-18 23:19:57,980 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-18 23:20:14,245 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-18 23:20:14,245 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-18 23:20:30,414 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-18 23:20:30,414 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-18 23:20:45,882 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-18 23:20:45,882 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-18 23:21:01,488 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-18 23:21:01,488 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-18 23:21:17,271 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-18 23:21:17,271 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-18 23:21:32,989 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-18 23:21:32,989 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-18 23:21:48,496 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-18 23:21:48,496 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-18 23:22:04,195 :INFO : test_WhatsappBotSanity : Hi is the last text
+2022-09-18 23:22:44,225 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-18 23:22:59,641 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-18 23:22:59,642 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-18 23:23:09,716 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-18 23:23:13,083 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-18 23:23:15,316 :INFO : test_Results :All bots are working fine
+2022-09-18 23:23:15,317 :INFO : test_Results :Following 15 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 02:08:01,895 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or Curatio Bot name does not exist
+2022-09-19 02:08:01,917 :ERROR : test_WhatsappBotSanity : Issue seen in Curatio Bot
+2022-09-19 02:08:32,418 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or Metropolis Healthcare Bot name does not exist
+2022-09-19 02:08:32,437 :ERROR : test_WhatsappBotSanity : Issue seen in Metropolis Healthcare Bot
+2022-09-19 02:09:02,916 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or Motilal Oswal Bot name does not exist
+2022-09-19 02:09:02,934 :ERROR : test_WhatsappBotSanity : Issue seen in Motilal Oswal Bot
+2022-09-19 02:09:33,287 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or SOAL Bot name does not exist
+2022-09-19 02:09:33,296 :ERROR : test_WhatsappBotSanity : Issue seen in SOAL Bot
+2022-09-19 02:10:03,357 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or Goapptiv Piesa Bot name does not exist
+2022-09-19 02:10:03,366 :ERROR : test_WhatsappBotSanity : Issue seen in Goapptiv Piesa Bot
+2022-09-19 02:10:33,448 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or iTAX Service Bot name does not exist
+2022-09-19 02:10:33,457 :ERROR : test_WhatsappBotSanity : Issue seen in iTAX Service Bot
+2022-09-19 02:11:03,973 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or Nanhi Kali Bot name does not exist
+2022-09-19 02:11:03,984 :ERROR : test_WhatsappBotSanity : Issue seen in Nanhi Kali Bot
+2022-09-19 02:11:34,070 :INFO : test_WhatsappBotSanity :Issue while loding whatsapp or Madhavbaug Bot name does not exist
+2022-09-19 02:11:34,087 :ERROR : test_WhatsappBotSanity : Issue seen in Madhavbaug Bot
+2022-09-19 02:20:09,653 :ERROR : test_WhatsappBotSanity :Whatsapp not responding try again or turn n phone whatsapp
+2022-09-19 02:20:19,120 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 02:20:24,013 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 02:20:26,268 :INFO : test_Results :All bots are working fine
+2022-09-19 02:20:26,268 :INFO : test_Results :Following 2 Bots is working ['Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 02:29:19,801 :ERROR : test_WhatsappBotSanity :Whatsapp not responding try again or try after turning on the phone whatsapp
+2022-09-19 02:29:29,962 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 02:29:38,759 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 02:29:42,078 :WARNING : test_Results :Whatsapp not responding try again or try after turning on the phone whatsapp
+2022-09-19 02:29:42,078 :INFO : test_Results :Following 2 Bots is working ['Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 02:31:00,263 :INFO : test_WhatsappBotSanity : I will help you look good and feel great!!!
+
+ Disclaimer: We don't recommend self medication, visit your dermatologist before using any product is the last text
+2022-09-19 02:31:00,264 :ERROR : test_WhatsappBotSanity : Curatio Bot does not match
+2022-09-19 02:31:16,267 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 02:31:16,268 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-19 02:31:32,557 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 02:31:32,557 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-19 02:31:48,568 :INFO : test_WhatsappBotSanity : What can Fuzzy help you with today? is the last text
+2022-09-19 02:31:48,568 :ERROR : test_WhatsappBotSanity : SOAL Bot does not match
+2022-09-19 02:32:04,170 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-19 02:32:04,170 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-19 02:32:20,470 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-19 02:32:20,470 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-19 02:32:36,713 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-19 02:32:36,713 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-19 02:32:53,017 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-19 02:32:53,017 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-19 02:33:09,427 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-19 02:33:09,427 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-19 02:33:25,607 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-19 02:33:25,607 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-19 02:33:42,271 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-19 02:33:42,271 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-19 02:33:58,663 :INFO : test_WhatsappBotSanity : Hi is the last text
+2022-09-19 02:34:38,706 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-19 02:34:55,071 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-19 02:34:55,071 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-19 02:35:04,518 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 02:35:08,117 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 02:35:11,376 :WARNING : test_Results :Following 2 Bot is impacted ['Curatio Bot', 'SOAL Bot'] 
+2022-09-19 02:35:11,377 :INFO : test_Results :Following 13 Bots is working ['Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 02:43:30,342 :ERROR : test_WhatsappBotSanity :Whatsapp not responding try again or try after turning on the phone whatsapp
+2022-09-19 02:43:52,059 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 02:44:00,489 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 02:44:02,564 :WARNING : test_Results :Whatsapp_login not responding try again or try after turning on the phone whatsapp
+2022-09-19 02:44:02,564 :INFO : test_Results :Following 2 Bots is working ['Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 02:45:47,473 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 02:45:47,473 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-19 02:46:05,039 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 02:46:05,039 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-19 02:46:22,487 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 02:46:22,487 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-19 02:46:40,200 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-19 02:46:40,200 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-19 02:46:57,873 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-19 02:46:57,873 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-19 02:47:15,462 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-19 02:47:15,462 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-19 02:47:32,975 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-19 02:47:32,991 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-19 02:47:50,525 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-19 02:47:50,525 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-19 02:48:08,115 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-19 02:48:08,115 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-19 02:48:25,666 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-19 02:48:25,666 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-19 02:48:43,294 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-19 02:48:43,294 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-19 02:49:00,897 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-19 02:49:00,897 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-19 02:49:18,491 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-19 02:49:18,491 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-19 02:49:27,672 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 02:49:31,023 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 02:49:33,278 :INFO : test_Results :All bots are working fine
+2022-09-19 02:49:33,278 :INFO : test_Results :Following 15 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 11:49:09,204 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 11:49:09,204 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-19 11:49:24,971 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 11:49:24,971 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-19 11:49:40,849 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 11:49:40,850 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-19 11:49:56,684 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-19 11:49:56,684 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-19 11:50:12,538 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-19 11:50:12,538 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-19 11:50:28,393 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-19 11:50:28,393 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-19 11:50:44,283 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-19 11:50:44,283 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-19 11:51:00,093 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-19 11:51:00,094 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-19 11:51:15,701 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-19 11:51:15,701 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-19 11:51:31,398 :INFO : test_WhatsappBotSanity : All agents are busy, kindly connect after sometime. is the last text
+2022-09-19 11:51:31,399 :ERROR : test_WhatsappBotSanity : Sanctum Bot does not match
+2022-09-19 11:51:47,124 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-19 11:51:47,124 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-19 11:52:02,814 :INFO : test_WhatsappBotSanity : Hi is the last text
+2022-09-19 11:52:32,873 :ERROR : test_WhatsappBotSanity : UPL Farmer Bot does not match
+2022-09-19 11:52:48,619 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-19 11:52:48,619 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-19 11:52:59,707 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 11:53:04,121 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 11:53:07,372 :WARNING : test_Results :Following 2 Bot is impacted ['Sanctum Bot', 'UPL Farmer Bot'] 
+2022-09-19 11:53:07,372 :INFO : test_Results :Following 13 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Cherise Tapri Chatbot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 11:54:27,530 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 11:54:27,531 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-19 11:54:43,323 :INFO : test_WhatsappBotSanity : I see you are an unregistered user, please select one of the following to continue:
+New User: If you are already not registered with Metropolis Healthcare.
+Other: Visiting for some other queries or issues. is the last text
+2022-09-19 11:54:43,324 :ERROR : test_WhatsappBotSanity : Metropolis Healthcare Bot does not match
+2022-09-19 11:54:59,109 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 11:54:59,109 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-19 11:55:14,823 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-19 11:55:14,823 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-19 11:55:30,603 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-19 11:55:30,604 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-19 11:55:46,888 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-19 11:55:46,888 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-19 11:56:02,954 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-19 11:56:02,954 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-19 11:56:18,640 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-19 11:56:18,641 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-19 11:56:34,454 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-19 11:56:34,455 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-19 11:56:50,125 :INFO : test_WhatsappBotSanity : All agents are busy, kindly connect after sometime. is the last text
+2022-09-19 11:56:50,125 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-19 11:57:05,830 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-19 11:57:05,831 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-19 11:57:21,522 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-19 11:57:21,522 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-19 11:57:37,279 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-19 11:57:37,279 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-19 11:57:50,539 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 11:57:59,394 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 11:58:02,511 :WARNING : test_Results :Following 1 Bot is impacted ['Metropolis Healthcare Bot'] 
+2022-09-19 11:58:02,511 :INFO : test_Results :Following 14 Bots is working ['Curatio Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 12:02:51,406 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 12:02:51,406 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-19 12:03:08,186 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 12:03:08,186 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-19 12:03:24,859 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 12:03:24,859 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-19 12:03:41,563 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-19 12:03:41,563 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-19 12:03:58,244 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-19 12:03:58,245 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-19 12:04:15,099 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-19 12:04:15,099 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-19 12:04:31,760 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-19 12:04:31,760 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-19 12:04:48,486 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-19 12:04:48,487 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-19 12:05:05,193 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-19 12:05:05,193 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-19 12:05:22,138 :INFO : test_WhatsappBotSanity : All agents are busy, kindly connect after sometime. is the last text
+2022-09-19 12:05:22,139 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-19 12:05:39,040 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-19 12:05:39,040 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-19 12:05:55,856 :INFO : test_WhatsappBotSanity : Sorry, we do not understand you. Please join the live agent for this information. is the last text
+2022-09-19 12:06:25,926 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-19 12:06:42,640 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-19 12:06:42,640 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-19 12:06:52,624 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 12:06:58,284 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 12:07:01,585 :INFO : test_Results :All bots are working fine
+2022-09-19 12:07:01,585 :INFO : test_Results :Following 15 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 12:18:24,416 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 12:18:24,416 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-19 12:18:41,190 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 12:18:41,190 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-19 12:18:57,970 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 12:18:57,970 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-19 12:19:14,801 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-19 12:19:14,801 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-19 12:19:31,529 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-19 12:19:31,529 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-19 12:19:48,382 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-19 12:19:48,382 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-19 12:20:05,101 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-19 12:20:05,102 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-19 12:20:21,984 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-19 12:20:21,984 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-19 12:20:38,970 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-19 12:20:38,970 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-19 12:20:55,683 :INFO : test_WhatsappBotSanity : All agents are busy, kindly connect after sometime. is the last text
+2022-09-19 12:20:55,684 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-19 12:21:12,377 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-19 12:21:12,377 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-19 12:21:29,089 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-19 12:21:29,090 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-19 12:21:45,816 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-19 12:21:45,816 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-19 12:21:55,905 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 12:21:59,864 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 12:22:03,156 :INFO : test_Results :All bots are working fine
+2022-09-19 12:22:03,158 :INFO : test_Results :Following 15 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 12:41:27,739 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 12:41:27,740 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-19 12:41:44,491 :INFO : test_WhatsappBotSanity : I see you are an unregistered user, please select one of the following to continue:
+New User: If you are already not registered with Metropolis Healthcare.
+Other: Visiting for some other queries or issues. is the last text
+2022-09-19 12:41:44,491 :ERROR : test_WhatsappBotSanity : Metropolis Healthcare Bot does not match
+2022-09-19 12:42:01,436 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 12:42:01,436 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-19 12:42:18,296 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-19 12:42:18,297 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-19 12:42:35,167 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-19 12:42:35,167 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-19 12:42:52,011 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-19 12:42:52,012 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-19 12:43:08,837 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-19 12:43:08,837 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-19 12:43:25,646 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-19 12:43:25,646 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-19 12:43:42,633 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-19 12:43:42,633 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-19 12:43:59,356 :INFO : test_WhatsappBotSanity : All agents are busy, kindly connect after sometime. is the last text
+2022-09-19 12:43:59,356 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-19 12:44:16,169 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-19 12:44:16,169 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-19 12:44:33,042 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-19 12:44:33,042 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-19 12:44:49,724 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-19 12:44:49,724 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-19 12:44:59,220 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 12:45:09,650 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 12:45:12,823 :WARNING : test_Results :Following 1 Bot is impacted ['Metropolis Healthcare Bot'] 
+2022-09-19 12:45:12,823 :INFO : test_Results :Following 14 Bots is working ['Curatio Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 13:12:58,969 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 13:12:58,970 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-19 13:13:16,675 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 13:13:16,675 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-19 13:13:34,642 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 13:13:34,642 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-19 13:13:52,571 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-19 13:13:52,571 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-19 13:14:10,464 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-19 13:14:10,464 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-19 13:14:28,348 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-19 13:14:28,348 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-19 13:14:46,229 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-19 13:14:46,230 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-19 13:15:04,089 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-19 13:15:04,089 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-19 13:15:21,883 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-19 13:15:21,883 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-19 13:15:39,591 :INFO : test_WhatsappBotSanity : All agents are busy, kindly connect after sometime. is the last text
+2022-09-19 13:15:39,591 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-19 13:15:57,331 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-19 13:15:57,331 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-19 13:16:15,308 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-19 13:16:15,308 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-19 13:16:32,968 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-19 13:16:32,968 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-19 13:16:42,760 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 13:16:51,470 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 13:16:54,607 :INFO : test_Results :All bots are working fine
+2022-09-19 13:16:54,607 :INFO : test_Results :Following 15 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 13:45:14,439 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 13:45:14,439 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-19 13:45:32,002 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 13:45:32,002 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-19 13:45:49,449 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 13:45:49,449 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-19 13:46:06,947 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-19 13:46:06,947 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-19 13:46:24,460 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-19 13:46:24,460 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-19 13:46:41,991 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-19 13:46:41,991 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-19 13:46:59,521 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-19 13:46:59,521 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-19 13:47:17,109 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-19 13:47:17,109 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-19 13:47:34,680 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-19 13:47:34,680 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-19 13:47:52,157 :INFO : test_WhatsappBotSanity : All agents are busy, kindly connect after sometime. is the last text
+2022-09-19 13:47:52,157 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-19 13:48:09,649 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-19 13:48:09,649 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-19 13:48:27,166 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-19 13:48:27,166 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-19 13:48:44,585 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-19 13:48:44,585 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-19 13:48:54,750 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 13:48:58,188 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 13:49:00,282 :INFO : test_Results :All bots are working fine
+2022-09-19 13:49:00,282 :INFO : test_Results :Following 15 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 14:17:37,336 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 14:17:37,336 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-19 14:17:54,940 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 14:17:54,940 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-19 14:18:12,572 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 14:18:12,572 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-19 14:18:30,137 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-19 14:18:30,137 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-19 14:18:47,715 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-19 14:18:47,715 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-19 14:19:05,213 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-19 14:19:05,213 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-19 14:19:22,860 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-19 14:19:22,860 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-19 14:19:40,356 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-19 14:19:40,356 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-19 14:19:57,990 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-19 14:19:57,990 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-19 14:20:15,620 :INFO : test_WhatsappBotSanity : All agents are busy, kindly connect after sometime. is the last text
+2022-09-19 14:20:15,620 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-19 14:20:33,086 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-19 14:20:33,086 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-19 14:20:50,770 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-19 14:20:50,770 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-19 14:21:08,383 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-19 14:21:08,383 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-19 14:21:17,603 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 14:21:20,950 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 14:21:24,201 :INFO : test_Results :All bots are working fine
+2022-09-19 14:21:24,201 :INFO : test_Results :Following 15 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 15:03:31,186 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 15:03:31,186 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-19 15:03:48,690 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 15:03:48,690 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-19 15:04:06,275 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 15:04:06,275 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-19 15:04:23,848 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-19 15:04:23,848 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-19 15:04:41,343 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-19 15:04:41,344 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-19 15:04:58,890 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-19 15:04:58,890 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-19 15:05:16,443 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-19 15:05:16,443 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-19 15:05:33,962 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-19 15:05:33,962 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-19 15:05:51,485 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-19 15:05:51,501 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-19 15:06:09,211 :INFO : test_WhatsappBotSanity : All agents are busy, kindly connect after sometime. is the last text
+2022-09-19 15:06:09,211 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-19 15:06:26,721 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-19 15:06:26,721 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-19 15:06:44,398 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-19 15:06:44,398 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-19 15:07:01,801 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-19 15:07:01,801 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-19 15:07:11,418 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 15:07:14,772 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 15:07:16,998 :INFO : test_Results :All bots are working fine
+2022-09-19 15:07:16,998 :INFO : test_Results :Following 15 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 15:24:08,762 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 15:24:08,764 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-19 15:24:26,278 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 15:24:26,278 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-19 15:24:43,831 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 15:24:43,831 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-19 15:25:01,424 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-19 15:25:01,424 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-19 15:25:18,955 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-19 15:25:18,955 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-19 15:25:36,523 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-19 15:25:36,523 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-19 15:25:54,069 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-19 15:25:54,069 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-19 15:26:11,838 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-19 15:26:11,838 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-19 15:26:29,610 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-19 15:26:29,610 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-19 15:26:47,071 :INFO : test_WhatsappBotSanity : All agents are busy, kindly connect after sometime. is the last text
+2022-09-19 15:26:47,071 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-19 15:27:04,530 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-19 15:27:04,530 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-19 15:27:22,222 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-19 15:27:22,222 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-19 15:27:39,645 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-19 15:27:39,645 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-19 15:27:48,992 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 15:27:52,326 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 15:27:54,417 :INFO : test_Results :All bots are working fine
+2022-09-19 15:27:54,417 :INFO : test_Results :Following 15 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 15:35:49,188 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 15:35:49,188 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-19 15:36:06,698 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 15:36:06,698 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-19 15:36:24,195 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 15:36:24,197 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-19 15:36:41,649 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-19 15:36:41,649 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-19 15:36:59,198 :INFO : test_WhatsappBotSanity : Welcome to GoApptiv! India’s fastest growing end-to-end business services provider for healthcare companies to improve reach for their products to different Geo market segments. is the last text
+2022-09-19 15:36:59,198 :INFO : test_WhatsappBotSanity : Goapptiv Piesa Bot last line matched
+2022-09-19 15:37:16,769 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-19 15:37:16,769 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-19 15:37:34,329 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-19 15:37:34,329 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-19 15:37:52,061 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-19 15:37:52,061 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-19 15:38:09,739 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-19 15:38:09,739 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-19 15:38:27,328 :INFO : test_WhatsappBotSanity : All agents are busy, kindly connect after sometime. is the last text
+2022-09-19 15:38:27,328 :INFO : test_WhatsappBotSanity : Sanctum Bot last line matched
+2022-09-19 15:38:44,838 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-19 15:38:44,838 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-19 15:39:02,364 :INFO : test_WhatsappBotSanity : 1. Connect to Live Chat Agent is the last text
+2022-09-19 15:39:02,367 :INFO : test_WhatsappBotSanity : UPL Farmer Bot last line matched
+2022-09-19 15:39:19,808 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-19 15:39:19,808 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-19 15:39:31,038 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 15:39:34,428 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 15:39:36,763 :INFO : test_Results :All bots are working fine
+2022-09-19 15:39:36,763 :INFO : test_Results :Following 15 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'Goapptiv Piesa Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Sanctum Bot', 'Cherise Tapri Chatbot', 'UPL Farmer Bot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
+2022-09-19 21:00:50,501 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 21:00:50,501 :INFO : test_WhatsappBotSanity : Curatio Bot last line matched
+2022-09-19 21:01:08,165 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 21:01:08,165 :INFO : test_WhatsappBotSanity : Metropolis Healthcare Bot last line matched
+2022-09-19 21:01:25,850 :INFO : test_WhatsappBotSanity : Please Select Option is the last text
+2022-09-19 21:01:25,850 :INFO : test_WhatsappBotSanity : Motilal Oswal Bot last line matched
+2022-09-19 21:01:43,761 :INFO : test_WhatsappBotSanity : Reply with the option number (Eg. 2 for Admission Process) to select that option.
+1. About SOAL  
+2. Admissions Process 
+3. Job Opportunities 
+4. Program Details  
+5. Full Menu is the last text
+2022-09-19 21:01:43,761 :INFO : test_WhatsappBotSanity : SOAL Bot last line matched
+2022-09-19 21:02:01,612 :INFO : test_WhatsappBotSanity : I see you are an unregistered user, please select one of the following to continue: is the last text
+2022-09-19 21:02:01,612 :ERROR : test_WhatsappBotSanity : Goapptiv Piesa Bot does not match
+2022-09-19 21:02:19,675 :INFO : test_WhatsappBotSanity : 1. New User 
+2. Existing User is the last text
+2022-09-19 21:02:19,675 :INFO : test_WhatsappBotSanity : iTAX Service Bot last line matched
+2022-09-19 21:02:37,565 :INFO : test_WhatsappBotSanity : 1. Stories of the month 
+2. How to install new APK on tablets 
+3. Identify Hardware ID of Tablets 
+4. How to rectify the gmail ID lock issue on Lenovo tablet 
+5. 45 Science experiments (write up and video) is the last text
+2022-09-19 21:02:37,566 :INFO : test_WhatsappBotSanity : Nanhi Kali Bot last line matched
+2022-09-19 21:02:55,409 :INFO : test_WhatsappBotSanity : We are unable to fetch your previous details.
+Please enter the pincode of the branch you want to book the appointment  for: is the last text
+2022-09-19 21:02:55,409 :INFO : test_WhatsappBotSanity : Madhavbaug Bot last line matched
+2022-09-19 21:03:13,223 :INFO : test_WhatsappBotSanity : Please select
+1. About Us 
+2. Product Information 
+3. Solar Capacity!!! 
+4. FAQS is the last text
+2022-09-19 21:03:13,223 :INFO : test_WhatsappBotSanity : Sugam Solar Bot last line matched
+2022-09-19 21:03:31,005 :INFO : test_WhatsappBotSanity : Thank you for contacting Sanctum Wealth. Our dealing desk operates from 8.30 a.m. to 5.30 p.m on weekdays (except on trading holidays). We will respond as soon as we are open again is the last text
+2022-09-19 21:03:31,006 :ERROR : test_WhatsappBotSanity : Sanctum Bot does not match
+2022-09-19 21:03:48,752 :INFO : test_WhatsappBotSanity : Welcome to Cherise. Kindly type in your name. is the last text
+2022-09-19 21:03:48,752 :INFO : test_WhatsappBotSanity : Cherise Tapri Chatbot last line matched
+2022-09-19 21:04:06,653 :INFO : test_WhatsappBotSanity : Hi is the last text
+2022-09-19 21:04:36,696 :ERROR : test_WhatsappBotSanity : UPL Farmer Bot does not match
+2022-09-19 21:04:54,577 :INFO : test_WhatsappBotSanity : Namaskar, nurture.farm care main apka swagat hai, .farm queries ke liye 1 type kare, .retail ke liye 2 type kare, F3/C3/S3 ke liye 3 type kare aur KYC status janane ke liye 4 type kare. Apni language change karne ke liye * type kare.
+
+Hello, welcome to nurture.farm care ! Please type 1 for. farm related queries, 2 for .retail, 3 for F3/C3/S3 and for KYC status please type 4. To change your language please type *.
+
+1. .farm related
+
+2. .retail related
+
+3. F3/C3/S3 related
+
+4. KYC Status
+
+To change your language type *. is the last text
+2022-09-19 21:04:54,577 :INFO : test_WhatsappBotSanity : UPL Retailer Prod Bot last line matched
+2022-09-19 21:05:04,638 :INFO : test_WebBotSanity : https://curatiohealthcare.com/ working fine
+2022-09-19 21:05:09,495 :INFO : test_WebBotSanity : https://us.engagelybots.ai/chatbot/?botId=xxjElr8_obyl working fine
+2022-09-19 21:05:11,823 :WARNING : test_Results :Following 3 Bot is impacted ['Goapptiv Piesa Bot', 'Sanctum Bot', 'UPL Farmer Bot'] 
+2022-09-19 21:05:11,823 :INFO : test_Results :Following 12 Bots is working ['Curatio Bot', 'Metropolis Healthcare Bot', 'Motilal Oswal Bot', 'SOAL Bot', 'iTAX Service Bot', 'Nanhi Kali Bot', 'Madhavbaug Bot', 'Sugam Solar Bot', 'Cherise Tapri Chatbot', 'UPL Retailer Prod Bot', 'Curatio Web Bot', 'ARC Fertility Bot'] 
